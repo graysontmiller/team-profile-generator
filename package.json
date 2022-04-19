@@ -1,30 +1,31 @@
 {
-  "name": "team-profile-generator",
+  "name": "c10_teamprofilegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using node.js, jest.js and inquirer.js to build a CLI to generate an employee page.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest",
-    "start": "node index.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmail1014/team-profile-generator.git"
+    "url": "git+https://github.com/ErikPlachta/node-team-profile-generator.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "jest",
+    "inquirer"
+  ],
+  "author": "Erik Plachta",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmail1014/team-profile-generator/issues"
+    "url": "https://github.com/ErikPlachta/node-team-profile-generator/issues"
   },
-  "homepage": "https://github.com/jmail1014/team-profile-generator#readme",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  },
+  "homepage": "https://github.com/ErikPlachta/node-team-profile-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
   }
 }
