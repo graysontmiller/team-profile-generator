@@ -11,4 +11,8 @@ This is a simple command-line application to generate a card-based webpage that 
 3. Run <code> node index </code> in the command line.
 4. Access the page through the <code>myteam.html </code>file in the dist folder.
 
-# Video
+# Video DEMO
+
+
+https://user-images.githubusercontent.com/92832005/163913492-eb56a1ba-f249-4d5d-816b-e301814b6203.mp4
+
